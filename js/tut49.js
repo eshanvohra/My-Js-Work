@@ -1,5 +1,5 @@
 console.log("This is tutorial 49");
-
+//this is regex
 // Character classes
 let regex = /\war/;     //  \w = word character - _ or alphabet or numbers
 regex = /\w+d1r/;       // \w+ means one or more word characters
